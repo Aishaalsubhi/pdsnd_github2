@@ -7,7 +7,7 @@
 Ash github project
 
 ### Description
-Describe what your project is about and what it does
+i work on the project by git program
 
 ### Files used
 i used bikeshare.py file 
